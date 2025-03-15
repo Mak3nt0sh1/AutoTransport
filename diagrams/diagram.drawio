@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="anivfigtLwiNKghZM0W1-1" value="Пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="180" width="40" height="90" as="geometry" />
+          <mxGeometry x="90" y="255" width="40" height="90" as="geometry" />
         </mxCell>
         <mxCell id="anivfigtLwiNKghZM0W1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="anivfigtLwiNKghZM0W1-4" target="anivfigtLwiNKghZM0W1-5">
           <mxGeometry relative="1" as="geometry" />
@@ -34,26 +34,24 @@
         <mxCell id="anivfigtLwiNKghZM0W1-5" value="Учётный модуль" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="anivfigtLwiNKghZM0W1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="anivfigtLwiNKghZM0W1-7">
+        <mxCell id="anivfigtLwiNKghZM0W1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="anivfigtLwiNKghZM0W1-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="680" y="360" />
+              <mxPoint x="610" y="360" />
               <mxPoint x="510" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="anivfigtLwiNKghZM0W1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="anivfigtLwiNKghZM0W1-7" target="anivfigtLwiNKghZM0W1-20">
+        <mxCell id="anivfigtLwiNKghZM0W1-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="anivfigtLwiNKghZM0W1-7" target="anivfigtLwiNKghZM0W1-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="680" y="400" />
-              <mxPoint x="720" y="400" />
-              <mxPoint x="720" y="500" />
+              <mxPoint x="643" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="anivfigtLwiNKghZM0W1-7" value="Модуль парсинга данных от поставщиков" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="anivfigtLwiNKghZM0W1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="anivfigtLwiNKghZM0W1-11">
           <mxGeometry relative="1" as="geometry">
@@ -66,7 +64,7 @@
         <mxCell id="anivfigtLwiNKghZM0W1-11" value="БД" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="420" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="anivfigtLwiNKghZM0W1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="anivfigtLwiNKghZM0W1-5">
+        <mxCell id="anivfigtLwiNKghZM0W1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="anivfigtLwiNKghZM0W1-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="120" as="targetPoint" />
             <Array as="points">
@@ -82,7 +80,7 @@
             <mxPoint x="40" y="220" as="targetPoint" />
             <Array as="points">
               <mxPoint x="40" y="150" />
-              <mxPoint x="40" y="225" />
+              <mxPoint x="40" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
